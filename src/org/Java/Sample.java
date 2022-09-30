@@ -16,6 +16,8 @@ public void information() {
 	System.out.println("Float value is: " +sal);
 	System.out.println("Double value is: " +sal1);
 	System.out.println("Franklin - working on login story");
+	System.out.println("Franklin - working on add to kart story");
+
 }
 public static void main(String[] args) {
 	Sample s = new Sample();
